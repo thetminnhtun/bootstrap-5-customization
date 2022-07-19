@@ -1,0 +1,16 @@
+{
+    "name": "bs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "sass scss/main.scss css/main.css",
+        "watch": "sass scss/main.scss css/main.css --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^5.1.3"
+    }
+}
